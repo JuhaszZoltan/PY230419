@@ -1,0 +1,9 @@
+# függvények és eljárások
+
+# eljárás, ha nem tér vissza semmivel
+print("hello")
+
+szamok:list[int] = [2, 3, 5]
+
+# függvény, ha van valamilyen ún. visszatérési értéke
+osszeg:int = sum(szamok)
